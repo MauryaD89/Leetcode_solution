@@ -6,6 +6,7 @@ My LeetCode solutions and problem-solving practice.
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/MauryaD89/Leetcode_solution/tree/master/2351-first-letter-to-appear-twice) |
 ## String
@@ -27,6 +28,7 @@ My LeetCode solutions and problem-solving practice.
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -36,4 +38,12 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
