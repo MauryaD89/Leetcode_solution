@@ -6,12 +6,14 @@ My LeetCode solutions and problem-solving practice.
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/MauryaD89/Leetcode_solution/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/MauryaD89/Leetcode_solution/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -24,6 +26,7 @@ My LeetCode solutions and problem-solving practice.
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -37,6 +40,7 @@ My LeetCode solutions and problem-solving practice.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
