@@ -8,12 +8,14 @@ My LeetCode solutions and problem-solving practice.
 | ------- |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/MauryaD89/Leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/MauryaD89/Leetcode_solution/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/MauryaD89/Leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/MauryaD89/Leetcode_solution/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
