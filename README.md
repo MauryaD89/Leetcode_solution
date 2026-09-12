@@ -47,6 +47,7 @@ My LeetCode solutions and problem-solving practice.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/MauryaD89/Leetcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
