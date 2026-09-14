@@ -80,5 +80,10 @@ My LeetCode solutions and problem-solving practice.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
