@@ -36,6 +36,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- |
 | [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,4 +77,8 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MauryaD89/Leetcode_solution/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
