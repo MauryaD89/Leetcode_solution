@@ -35,6 +35,7 @@ My LeetCode solutions and problem-solving practice.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MauryaD89/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -83,6 +84,7 @@ My LeetCode solutions and problem-solving practice.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MauryaD89/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/MauryaD89/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/MauryaD89/Leetcode_solution/tree/master/0203-remove-linked-list-elements) |
