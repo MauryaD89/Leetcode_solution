@@ -104,8 +104,17 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MauryaD89/Leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/MauryaD89/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MauryaD89/Leetcode_solution/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MauryaD89/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MauryaD89/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
