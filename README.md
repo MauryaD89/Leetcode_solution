@@ -16,6 +16,7 @@ My LeetCode solutions and problem-solving practice.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MauryaD89/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/MauryaD89/Leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/MauryaD89/Leetcode_solution/tree/master/2351-first-letter-to-appear-twice) |
@@ -99,4 +100,12 @@ My LeetCode solutions and problem-solving practice.
 | [0021-merge-two-sorted-lists](https://github.com/MauryaD89/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/MauryaD89/Leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MauryaD89/Leetcode_solution/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MauryaD89/Leetcode_solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
