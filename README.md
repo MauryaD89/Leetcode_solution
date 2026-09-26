@@ -33,6 +33,7 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/MauryaD89/Leetcode_solution/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/MauryaD89/Leetcode_solution/tree/master/0496-next-greater-element-i) |
@@ -59,6 +60,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- |
 | [0007-reverse-integer](https://github.com/MauryaD89/Leetcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/MauryaD89/Leetcode_solution/tree/master/0204-count-primes) |
 ## Floyd's Cycle Finding Algorithm
@@ -106,6 +108,7 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MauryaD89/Leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MauryaD89/Leetcode_solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MauryaD89/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/MauryaD89/Leetcode_solution/tree/master/0496-next-greater-element-i) |
