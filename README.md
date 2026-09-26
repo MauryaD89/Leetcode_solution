@@ -20,6 +20,7 @@ My LeetCode solutions and problem-solving practice.
 | [0020-valid-parentheses](https://github.com/MauryaD89/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/MauryaD89/Leetcode_solution/tree/master/0205-isomorphic-strings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MauryaD89/Leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/MauryaD89/Leetcode_solution/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -112,6 +113,7 @@ My LeetCode solutions and problem-solving practice.
 | [0155-min-stack](https://github.com/MauryaD89/Leetcode_solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MauryaD89/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/MauryaD89/Leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MauryaD89/Leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
