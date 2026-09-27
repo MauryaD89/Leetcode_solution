@@ -3,7 +3,6 @@ class Solution {
       Stack<Integer> stack=new Stack<>();
 
       for(String token:tokens){
-
         if(token.equals("+")){
             int b=stack.pop();
             int a=stack.pop();
@@ -23,10 +22,6 @@ class Solution {
         }else{
             stack.push(Integer.parseInt(token));
         }
-
-
-
-
       }
       return stack.peek();
     }
