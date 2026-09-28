@@ -123,12 +123,18 @@ My LeetCode solutions and problem-solving practice.
 | ------- |
 | [0155-min-stack](https://github.com/MauryaD89/Leetcode_solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MauryaD89/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/MauryaD89/Leetcode_solution/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MauryaD89/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/MauryaD89/Leetcode_solution/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MauryaD89/Leetcode_solution/tree/master/0496-next-greater-element-i) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/MauryaD89/Leetcode_solution/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
