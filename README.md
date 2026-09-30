@@ -38,6 +38,7 @@ My LeetCode solutions and problem-solving practice.
 | [0204-count-primes](https://github.com/MauryaD89/Leetcode_solution/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/MauryaD89/Leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/MauryaD89/Leetcode_solution/tree/master/0622-design-circular-queue) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ My LeetCode solutions and problem-solving practice.
 | [0160-intersection-of-two-linked-lists](https://github.com/MauryaD89/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/MauryaD89/Leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/MauryaD89/Leetcode_solution/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -125,12 +127,14 @@ My LeetCode solutions and problem-solving practice.
 | [0155-min-stack](https://github.com/MauryaD89/Leetcode_solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MauryaD89/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MauryaD89/Leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/MauryaD89/Leetcode_solution/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/MauryaD89/Leetcode_solution/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MauryaD89/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MauryaD89/Leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/MauryaD89/Leetcode_solution/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/MauryaD89/Leetcode_solution/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
