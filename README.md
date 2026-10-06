@@ -42,6 +42,7 @@ My LeetCode solutions and problem-solving practice.
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/MauryaD89/Leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/MauryaD89/Leetcode_solution/tree/master/0622-design-circular-queue) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/MauryaD89/Leetcode_solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ My LeetCode solutions and problem-solving practice.
 | [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/MauryaD89/Leetcode_solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,4 +159,8 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MauryaD89/Leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/MauryaD89/Leetcode_solution/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
