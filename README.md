@@ -39,6 +39,7 @@ My LeetCode solutions and problem-solving practice.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MauryaD89/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MauryaD89/Leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/MauryaD89/Leetcode_solution/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/MauryaD89/Leetcode_solution/tree/master/0496-next-greater-element-i) |
@@ -157,6 +158,7 @@ My LeetCode solutions and problem-solving practice.
 | [0053-maximum-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MauryaD89/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MauryaD89/Leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
