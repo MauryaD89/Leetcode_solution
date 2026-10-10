@@ -6,6 +6,7 @@ My LeetCode solutions and problem-solving practice.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MauryaD89/Leetcode_solution/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/MauryaD89/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MauryaD89/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -33,6 +34,7 @@ My LeetCode solutions and problem-solving practice.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MauryaD89/Leetcode_solution/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0053-maximum-subarray) |
