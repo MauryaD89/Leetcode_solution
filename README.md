@@ -8,6 +8,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- |
 | [0001-two-sum](https://github.com/MauryaD89/Leetcode_solution/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/MauryaD89/Leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MauryaD89/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MauryaD89/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MauryaD89/Leetcode_solution/tree/master/0169-majority-element) |
@@ -46,6 +47,7 @@ My LeetCode solutions and problem-solving practice.
 | [0053-maximum-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MauryaD89/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MauryaD89/Leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/MauryaD89/Leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/MauryaD89/Leetcode_solution/tree/master/0169-majority-element) |
@@ -196,4 +198,8 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MauryaD89/Leetcode_solution/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MauryaD89/Leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
