@@ -49,6 +49,7 @@ My LeetCode solutions and problem-solving practice.
 | [0150-evaluate-reverse-polish-notation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/MauryaD89/Leetcode_solution/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/MauryaD89/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MauryaD89/Leetcode_solution/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/MauryaD89/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@ My LeetCode solutions and problem-solving practice.
 | [0031-next-permutation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/MauryaD89/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MauryaD89/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/MauryaD89/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
@@ -87,6 +89,7 @@ My LeetCode solutions and problem-solving practice.
 | [0007-reverse-integer](https://github.com/MauryaD89/Leetcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/MauryaD89/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/MauryaD89/Leetcode_solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0268-missing-number) |
