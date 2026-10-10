@@ -36,6 +36,7 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MauryaD89/Leetcode_solution/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MauryaD89/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0053-maximum-subarray) |
@@ -53,6 +54,7 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MauryaD89/Leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MauryaD89/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/MauryaD89/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MauryaD89/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
