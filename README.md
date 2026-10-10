@@ -12,6 +12,7 @@ My LeetCode solutions and problem-solving practice.
 | [0160-intersection-of-two-linked-lists](https://github.com/MauryaD89/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MauryaD89/Leetcode_solution/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/MauryaD89/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/MauryaD89/Leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [2351-first-letter-to-appear-twice](https://github.com/MauryaD89/Leetcode_solution/tree/master/2351-first-letter-to-appear-twice) |
@@ -43,6 +44,7 @@ My LeetCode solutions and problem-solving practice.
 | [0150-evaluate-reverse-polish-notation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/MauryaD89/Leetcode_solution/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/MauryaD89/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/MauryaD89/Leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/MauryaD89/Leetcode_solution/tree/master/0622-design-circular-queue) |
@@ -66,6 +68,7 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/MauryaD89/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
