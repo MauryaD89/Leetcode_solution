@@ -10,6 +10,7 @@ My LeetCode solutions and problem-solving practice.
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/MauryaD89/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MauryaD89/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/MauryaD89/Leetcode_solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MauryaD89/Leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MauryaD89/Leetcode_solution/tree/master/0217-contains-duplicate) |
@@ -33,6 +34,7 @@ My LeetCode solutions and problem-solving practice.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MauryaD89/Leetcode_solution/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/MauryaD89/Leetcode_solution/tree/master/2351-first-letter-to-appear-twice) |
 ## Array
 |  |
@@ -46,6 +48,7 @@ My LeetCode solutions and problem-solving practice.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MauryaD89/Leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/MauryaD89/Leetcode_solution/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/MauryaD89/Leetcode_solution/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/MauryaD89/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0268-missing-number) |
@@ -74,6 +77,7 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/MauryaD89/Leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MauryaD89/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -184,4 +188,9 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/MauryaD89/Leetcode_solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MauryaD89/Leetcode_solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
