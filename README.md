@@ -54,6 +54,7 @@ My LeetCode solutions and problem-solving practice.
 | [0189-rotate-array](https://github.com/MauryaD89/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MauryaD89/Leetcode_solution/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/MauryaD89/Leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/MauryaD89/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/MauryaD89/Leetcode_solution/tree/master/0496-next-greater-element-i) |
@@ -202,4 +203,8 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MauryaD89/Leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/MauryaD89/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
