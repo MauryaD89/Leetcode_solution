@@ -47,6 +47,7 @@ My LeetCode solutions and problem-solving practice.
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/MauryaD89/Leetcode_solution/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/MauryaD89/Leetcode_solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MauryaD89/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MauryaD89/Leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/MauryaD89/Leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
@@ -95,6 +96,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- |
 | [0007-reverse-integer](https://github.com/MauryaD89/Leetcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/MauryaD89/Leetcode_solution/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/MauryaD89/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0202-happy-number) |
