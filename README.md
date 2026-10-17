@@ -46,6 +46,7 @@ My LeetCode solutions and problem-solving practice.
 | [0035-search-insert-position](https://github.com/MauryaD89/Leetcode_solution/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/MauryaD89/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MauryaD89/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MauryaD89/Leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/MauryaD89/Leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
@@ -84,6 +85,7 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/MauryaD89/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/MauryaD89/Leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MauryaD89/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0268-missing-number) |
@@ -209,4 +211,8 @@ My LeetCode solutions and problem-solving practice.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MauryaD89/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/MauryaD89/Leetcode_solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
