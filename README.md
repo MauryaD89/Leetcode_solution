@@ -43,6 +43,7 @@ My LeetCode solutions and problem-solving practice.
 | [0001-two-sum](https://github.com/MauryaD89/Leetcode_solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MauryaD89/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MauryaD89/Leetcode_solution/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/MauryaD89/Leetcode_solution/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/MauryaD89/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MauryaD89/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MauryaD89/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +77,7 @@ My LeetCode solutions and problem-solving practice.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/MauryaD89/Leetcode_solution/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/MauryaD89/Leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MauryaD89/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
